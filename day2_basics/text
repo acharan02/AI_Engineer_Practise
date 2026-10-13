@@ -1,0 +1,8 @@
+In programming lanuguage, the code which we write my contains less number of lines, some may contains more numberof lines.
+loops basically allows us to run block of code for repeated times until we get the expected outcome.
+pyhton has two main types of loops
+FOR loop
+while loop 
+
+For loop: it is used when we know how many times the code should run in order to get the out put.
+while loop : it is used when you want to repeat something as long as the condition remains true.
